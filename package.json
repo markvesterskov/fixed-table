@@ -1,0 +1,7 @@
+{
+  "name": "fixed-table",
+  "version": "1.0.0",
+  "description": "Table with fixed first column and row.",
+  "license": "MIT",
+  "repository": "markvesterskov/fixed-table"
+}
